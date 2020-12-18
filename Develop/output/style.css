@@ -1,0 +1,10 @@
+.jumbotron {
+    background-color: red;
+    color: white;
+}
+
+.card {
+    background-color: lightcyan;
+    margin: 10px !important;
+    color: black;
+}
